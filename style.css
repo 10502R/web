@@ -1,0 +1,17 @@
+/*배경*/
+body{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.8),rgba(0,0,0,0.2)),url(new/22.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    font-family: 'Hahmlet', serif;
+}
+/*폰트*/
+pre{
+    font-family: 'Hahmlet', serif;
+    text-decoration-color: antiquewhite;
+}
+/*글자색*/
+#dropdowns{ color: rgba(0,0,0,0.2)}
+h6{ color:gray}
+
